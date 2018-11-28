@@ -6,7 +6,7 @@ $server = array(
         'host' => '127.0.0.1',
         'port' => 3306,
         'user' => 'root',
-        'password' => 'bb5134855??',
+        'password' => '',
         'database' => 'beauty_table',
         'timeout' => 2,  // 可选：连接超时时间（非查询超时时间），默认为SW_MYSQL_CONNECT_TIMEOUT（1.0）
     );
