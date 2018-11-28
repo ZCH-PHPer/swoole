@@ -12,7 +12,7 @@ co::create(function () {
     $server = array(
         'host' => '127.0.0.1',
         'user' => 'root',
-        'password' => '',
+        'password' => '1',
         'database' => 'beauty_table',
     );
 
